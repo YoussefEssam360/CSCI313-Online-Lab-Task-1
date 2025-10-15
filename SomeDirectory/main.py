@@ -1,5 +1,5 @@
-print('some python code')
-print('I commit, I push, and most importantly.. I pull')
+print('some python code!!!')
+print('I commit, I push, and most importantly.. I pull!!!')
 
 input1 = float(input('Enter first number: '))
 input2 = float(input('Enter second number: '))
